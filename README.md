@@ -7,7 +7,7 @@
     <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
-This 1st project repository repository contains documentation on different mechatronics projects that use a combination of mechanics, electronics and programming; ranging from Artificial Intelligence, Computer Vision, Data Science, Automations, IoT, Mechanical CAD, Printed Circuit Board Design, etc.
+This 1st project repository contains documentation on different mechatronics projects that use a combination of mechanics, electronics and programming; ranging from Artificial Intelligence, Computer Vision, Data Science, Automations, IoT, Mechanical CAD, Printed Circuit Board Design, etc.
 &nbsp;
 <br/>
 &nbsp;
